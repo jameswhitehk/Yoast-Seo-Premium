@@ -1,2 +1,2 @@
 # Yoast-Seo-Premium
-yoast seo premium
+yoast seo premium 22.6
